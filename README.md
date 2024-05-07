@@ -6,9 +6,9 @@
 <h2>Reinforcement Learning</h2>
 
 <h3>Exercise I: Introduction to Reinforcement Learning</h3>
-<h4>Student Name: Zemedkun Abebe</h4>
+<h4>Student Name: Zemedkun Abebe</h4></center>
 ![image](https://github.com/Zemedkun-Abebe/Reinforcement-Learning/assets/99493026/2d8907c2-7e45-4fcd-80d0-7d281a3239ac)
-</center>
+
 
 
 <h4>Topics</h4> 
